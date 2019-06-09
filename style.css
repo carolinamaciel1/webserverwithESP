@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    
+}
+header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+main{
+    height: 100%;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+
+form{
+    
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button-girar{
+    margin-top: 30px;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+p strong{
+    color: red;
+}
+
+#all{
+    padding: 5px;
+    width: 50%;
+    background-image: linear-gradient(white,#b2fab4);
+    border-radius: 10px;
+}
+
+#texto-inicial{
+    padding-top: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
